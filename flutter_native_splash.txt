@@ -1,0 +1,8 @@
+flutter_native_splash:
+  image: "assets/icon/icon.png"
+
+
+
+  android_12:
+    image: "assets/icon/icon.png"
+    background image: "assets/images/optitext_full_logo.png"
